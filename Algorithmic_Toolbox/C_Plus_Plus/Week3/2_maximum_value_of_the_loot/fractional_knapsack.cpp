@@ -8,23 +8,23 @@ double get_optimal_value(int capacity, vector<int> weights, vector<int> values) 
 
   // write your code here
 
-      while (capacity > 0) {
-        int m = -1;
-        for (int i = 0; i < weights.size(); i++) {
-            if (weights[i] > 0) {
-                if (m == -1 || values[i] * weights[m] > values[m] * weights[i]) {
-                    m = i;
-                }
+  while (capacity > 0) {
+    int m = -1;
+    for (int i = 0; i < weights.size(); i++) {
+        if (weights[i] > 0) {
+            if (m == -1 || values[i] * weights[m] > values[m] * weights[i]) {
+                m = i;
             }
         }
-        if (m == -1) {
-            break;
-        }
-        int amount = std::min(weights[m], capacity);
-        value += static_cast<double>(values[m]) * amount / weights[m];
-        capacity -= amount;
-        weights[m] -= amount;
     }
+    if (m == -1) {
+        break;
+    }
+    int amount = std::min(weights[m], capacity);
+    value += static_cast<double>(values[m]) * amount / weights[m];
+    capacity -= amount;
+    weights[m] -= amount;
+  }
     
   return value;
 }
