@@ -27,18 +27,23 @@ The Algorithms and Data Structures Specialization consists of several courses th
 - [Week 1](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week1)
   - [Programming Assignments](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week1)    
 <br/>
+
 - [Week 2](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week2)
   - [Programming Assignments](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week2)    
 <br/>
+
 - [Week 3](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week3)
   - [Programming Assignments](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week3)    
 <br/>
+
 - [Week 4](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week4)
   - [Programming Assignments](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week4)    
 <br/>
+
 - [Week 5](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week5)
   - [Programming Assignments](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week5)    
 <br/>
+
 - [Week 6](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week6)
   - [Programming Assignments](https://github.com/talaeiaj/Coursera_DSA_Specialization/tree/main/Algorithmic_Toolbox/C_Plus_Plus/Week6)    
 <br/>
